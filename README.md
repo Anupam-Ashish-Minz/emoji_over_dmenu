@@ -1,5 +1,3 @@
-readme.md_emoji_over_dmen
-
 # emoji_over_dmenu
 
 This is a very simple linux shell script that allows one to use emoji on the fly.
