@@ -1,7 +1,3 @@
-    emojify - emoji on the command line 😱
-
-    USAGE: emojify [-h|--help] [-l|--list] TEXT
-Supported emojis:
 :v_tone2: ✌🏼
 :underage: 🔞
 :sunrise_over_mountains: 🌄
