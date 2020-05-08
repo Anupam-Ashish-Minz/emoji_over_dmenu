@@ -9,6 +9,7 @@ Clone this directory and place it in the `.local/share/applications/` directory 
 
 ``` 
 git clone https://github.com/anupam-ashish-minz/emoji_over_dmenu 
+mv emoji_over_dmenu ~/.local/share/applications/emoji_over_dmenu
 ```
 
 Create a shortcut key to this file `emoji_over_dmenu_script.sh`.
